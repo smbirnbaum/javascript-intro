@@ -1,7 +1,7 @@
-let x = 10;
-let y = 20;
+let numberOne = 10;
+let numberTwo = 20;
 
-console.log(x + y);
-console.log(x - y);
-console.log(x * y);
-console.log(y / x);
+console.log(numberOne + numberTwo);
+console.log(numberOne - numberTwo);
+console.log(numberOne * numberTwo);
+console.log(numberTwo / numberOne);
